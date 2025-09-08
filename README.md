@@ -10,8 +10,8 @@
 *   'train_data.csv'...教師データ。
 *   'test_data.csv'...正解(Subject_F)を省いたテストデータ。
 *   'answer_data.csv'...テストデータ。
-*   'README'...説明書きのメモ。
-*   'LISENCE'...ライセンスについての説明。
+*   'README.md'...説明書きのメモ。
+*   'LICENSE'...ライセンスについての説明。
 
 ## 3. 作成
 
